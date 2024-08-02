@@ -28,9 +28,14 @@ Discrete mathematics is the study of values that are distinct and separate, unli
 합에 대한 역: -1
 곱에 대한 역: $1/a$
 
+합의 법칙:
+1. $$\sum_{i=1}^{n} c = nc$$
+2. $$\sum_{i=1}^{n} cx_i = c\sum_{i=1}^{n} x_i$$
+3. $$\sum_{i=1}^{n} (x_i + y_i) = \sum_{i=1}^{n} x_i + \sum_{i=1}^{n} y_i$$
+4. $$\sum_{i=1}^{n} x_i = \sum_{i=1}^{k} x_i + \sum_{i=k+1}^{n} x_i \quad (\text{단, } 1 \leq k < n)$$
+곱의 법칙:
+1. $$\prod_{i=1}^{n} c = c^n$$
 
-$$\sum_{i=1}^{n} c = nc$$
-$$\sum_{i=1}^{n} cx_i = c\sum_{i=1}^{n} x_i$$
+2. $$\prod_{i=1}^{n} x_i y_i = \prod_{i=1}^{n} x_i \times \prod_{i=1}^{n} y_i$$
 
-$$\sum_{i=1}^{n} (x_i + y_i) = \sum_{i=1}^{n} x_i + \sum_{i=1}^{n} y_i$$
-$$\sum_{i=1}^{n} x_i = \sum_{i=1}^{k} x_i + \sum_{i=k+1}^{n} x_i \quad (\text{단, } 1 \leq k < n)$$
+3. $$\prod_{i=1}^{n} x_i = \prod_{i=1}^{k} x_i \times \prod_{i=k+1}^{n} x_i \quad (\text{단, } 1 \leq k < n)$$
