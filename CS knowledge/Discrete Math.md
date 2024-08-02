@@ -28,4 +28,9 @@ Discrete mathematics is the study of values that are distinct and separate, unli
 합에 대한 역: -1
 곱에 대한 역: $1/a$
 
-$$
+
+$$\sum_{i=1}^{n} c = nc$$
+$$\sum_{i=1}^{n} cx_i = c\sum_{i=1}^{n} x_i$$
+
+$$\sum_{i=1}^{n} (x_i + y_i) = \sum_{i=1}^{n} x_i + \sum_{i=1}^{n} y_i$$
+$$\sum_{i=1}^{n} x_i = \sum_{i=1}^{k} x_i + \sum_{i=k+1}^{n} x_i \quad (\text{단, } 1 \leq k < n)$$
