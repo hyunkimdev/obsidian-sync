@@ -27,3 +27,5 @@ Discrete mathematics is the study of values that are distinct and separate, unli
 곱에 대한 항등원: 1
 합에 대한 역: -1
 곱에 대한 역: $1/a$
+
+$$
