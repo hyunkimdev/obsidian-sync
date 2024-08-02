@@ -2,7 +2,7 @@ HTML은 HyperText Markup Language의 약자입니다. 웹 페이지를 작성하
 
 ##### Library
 
-```
+```html
 <!DOCTYPE html> #declaration
 <html>
 ```

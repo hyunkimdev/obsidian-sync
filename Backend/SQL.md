@@ -15,7 +15,7 @@ SQL: for relational database
 	Updating - update
 	Deleting - delete, drop
 
-```
+```sql
 .mode csv
 .import favorites.csv favorites
 .schema
@@ -29,6 +29,6 @@ SELECT * FROM favorites;
 	DISTINCT
 	...
 
-```
+```sql
 SELECT CustomerName, City FROM Customers;
 ```
