@@ -9,7 +9,8 @@ Discrete mathematics is the study of values that are distinct and separate, unli
  유리수 Rational Number: Q
 	 분수로 나타낼 수 있는 수
 무리수 Irrational Number: I
-	분수로 나타낼 수 없는 수 (sqrt2, pi, e, i)
+	분수로 나타낼 수 없는 수 (sqrt2, pi, e)
 실수 Real Number: R
 	자연수, 정수, 유리수, 무리수
-복소수
+복소수 Complex Number: C
+	i 허수를 포함하는 수 체계
