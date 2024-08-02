@@ -14,3 +14,14 @@ Discrete mathematics is the study of values that are distinct and separate, unli
 	자연수, 정수, 유리수, 무리수
 복소수 Complex Number: C
 	i 허수를 포함하는 수 체계
+
+교환법칙
+	$x+y = y+x$
+	$xy = yx$
+결합법칙
+	$(x+y)+z=x+(y+z)$
+	$(xy)z = x(yz)$
+분배법칙
+	$x(y+z)=xy+xz$
+합에 대한 항등원: 0
+곱에 대한 항등원: 1
