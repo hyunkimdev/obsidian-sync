@@ -32,3 +32,6 @@ SELECT * FROM favorites;
 ```sql
 SELECT CustomerName, City FROM Customers;
 ```
+
+# MySQL
+
