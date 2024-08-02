@@ -7,4 +7,9 @@ Discrete mathematics is the study of values that are distinct and separate, unli
 정수 Integer: Z
 	 (-2, -1, 0, 1 ,2)
  유리수 Rational Number: Q
-	 
+	 분수로 나타낼 수 있는 수
+무리수 Irrational Number: I
+	분수로 나타낼 수 없는 수 (sqrt2, pi, e, i)
+실수 Real Number: R
+	자연수, 정수, 유리수, 무리수
+복소수
