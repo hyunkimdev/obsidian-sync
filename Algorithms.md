@@ -24,5 +24,20 @@ print(a)
 print(b)
 
 # 효율성은 미미하게 더 좋지만 가독성이 더 뛰어난 코드
-print(input(), input() sep="\n")
+print(input(), input(), sep="\n")
+```
+```python
+# 기존 코드
+a = input()
+b = input()
+print(b,a,sep='\n')
+
+#미미한 메모리 사용량 증가, 그러나 뛰어난 가독성과 추후 수정 친화적
+def get_and_print_reversed_inputs():
+    a = input("Enter the first input: ")
+    b = input("Enter the second input: ")
+    print("Second input:", b)
+    print("First input:", a)
+
+get_and_print_reversed_inputs()
 ```
